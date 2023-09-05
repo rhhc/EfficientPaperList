@@ -1,0 +1,24 @@
+paper {
+  title: "Decentralized_FM_alpha"
+  abbr: "Decentralized_FM"
+  url: "https://github.com/DS3Lab/Decentralized_FM_alpha"
+  authors: "Jue Wang"
+  institutions: "DS3Lab"
+}
+pub {
+  where: "Github"
+  year: 2022
+}
+code {
+  type: "Pytorch"
+  url: "https://github.com/DS3Lab/Decentralized_FM_alpha"
+}
+note {
+  url: ""
+}
+keyword {
+  words: dist
+}
+cover {
+  url: ""
+}

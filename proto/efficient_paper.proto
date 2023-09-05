@@ -44,6 +44,7 @@ message Keyword {
         sparse_pruning = 2;
         quantization = 3;
         survey = 4;
+        dist = 5;
         // TODO: please add your key words here.
     }
 }

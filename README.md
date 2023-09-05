@@ -55,6 +55,13 @@ keyword {
 </summary> 
 <p>
 
+<details open><summary><b>Distributed</b></summary> 
+<p>
+
+|    | meta                                         | title                                                                      | publication   |   year | code                                                        | note   | cover   |
+|---:|:---------------------------------------------|:---------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------------------|:-------|:--------|
+|  0 | [Decentralized_FM](./meta/WD3EMM1O.prototxt) | [Decentralized_FM_alpha](https://github.com/DS3Lab/Decentralized_FM_alpha) | Github        |   2022 | [Pytorch](https://github.com/DS3Lab/Decentralized_FM_alpha) |        |         |</p>
+</details>
 <details open><summary><b>Quantization</b></summary> 
 <p>
 
@@ -100,6 +107,13 @@ keyword {
 |---:|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|-------:|:-------|:-------|:--------|
 |  0 | [OpenVINO](./meta/OpenVINO.prototxt) | [Post-training deep neural network pruning via layer-wise calibration](https://openaccess.thecvf.com/content/ICCV2021W/LPCV/papers/Lazarevich_Post-Training_Deep_Neural_Network_Pruning_via_Layer-Wise_Calibration_ICCVW_2021_paper.pdf) | ICCV workshop |   2021 |        |        |         |</p>
 </details>
+<details><summary><b>2022</b></summary> 
+<p>
+
+|    | meta                                         | title                                                                      | publication   |   year | code                                                        | note   | cover   |
+|---:|:---------------------------------------------|:---------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------------------|:-------|:--------|
+|  0 | [Decentralized_FM](./meta/WD3EMM1O.prototxt) | [Decentralized_FM_alpha](https://github.com/DS3Lab/Decentralized_FM_alpha) | Github        |   2022 | [Pytorch](https://github.com/DS3Lab/Decentralized_FM_alpha) |        |         |</p>
+</details>
 <details><summary><b>2023</b></summary> 
 <p>
 
@@ -141,6 +155,13 @@ keyword {
 </summary> 
 <p>
 
+<details><summary><b>Github</b></summary> 
+<p>
+
+|    | meta                                         | title                                                                      | publication   |   year | code                                                        | note   | cover   |
+|---:|:---------------------------------------------|:---------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------------------|:-------|:--------|
+|  0 | [Decentralized_FM](./meta/WD3EMM1O.prototxt) | [Decentralized_FM_alpha](https://github.com/DS3Lab/Decentralized_FM_alpha) | Github        |   2022 | [Pytorch](https://github.com/DS3Lab/Decentralized_FM_alpha) |        |         |</p>
+</details>
 <details><summary><b>ICCV workshop</b></summary> 
 <p>
 
@@ -196,6 +217,13 @@ keyword {
 </summary> 
 <p>
 
+<details><summary><b>DS3Lab</b></summary> 
+<p>
+
+|    | meta                                         | title                                                                      | publication   |   year | code                                                        | note   | cover   |
+|---:|:---------------------------------------------|:---------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------------------|:-------|:--------|
+|  0 | [Decentralized_FM](./meta/WD3EMM1O.prototxt) | [Decentralized_FM_alpha](https://github.com/DS3Lab/Decentralized_FM_alpha) | Github        |   2022 | [Pytorch](https://github.com/DS3Lab/Decentralized_FM_alpha) |        |         |</p>
+</details>
 <details><summary><b>Eindhoven University of Technology</b></summary> 
 <p>
 
@@ -365,6 +393,13 @@ keyword {
 |    | meta                                 | title                                                                                                                                                                                                                                    | publication   |   year | code   | note   | cover   |
 |---:|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|-------:|:-------|:-------|:--------|
 |  0 | [OpenVINO](./meta/OpenVINO.prototxt) | [Post-training deep neural network pruning via layer-wise calibration](https://openaccess.thecvf.com/content/ICCV2021W/LPCV/papers/Lazarevich_Post-Training_Deep_Neural_Network_Pruning_via_Layer-Wise_Calibration_ICCVW_2021_paper.pdf) | ICCV workshop |   2021 |        |        |         |</p>
+</details>
+<details><summary><b>Jue Wang</b></summary> 
+<p>
+
+|    | meta                                         | title                                                                      | publication   |   year | code                                                        | note   | cover   |
+|---:|:---------------------------------------------|:---------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------------------|:-------|:--------|
+|  0 | [Decentralized_FM](./meta/WD3EMM1O.prototxt) | [Decentralized_FM_alpha](https://github.com/DS3Lab/Decentralized_FM_alpha) | Github        |   2022 | [Pytorch](https://github.com/DS3Lab/Decentralized_FM_alpha) |        |         |</p>
 </details>
 <details><summary><b>Name1</b></summary> 
 <p>

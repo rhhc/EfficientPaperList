@@ -31,6 +31,7 @@ word_pb2str = {
     eppb.Keyword.Word.sparse_pruning: "Sparse/Pruning",
     eppb.Keyword.Word.quantization: "Quantization",
     eppb.Keyword.Word.survey: "Survey",
+    eppb.Keyword.Word.dist: "Distributed"
 }
 
 
