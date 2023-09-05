@@ -87,7 +87,7 @@ def main():
             else:
                 cover = pinfo.cover.url
 
-            cover = "<img width='400' alt='image' src='{}'>".format(cover)
+            cover = "<img width='1000' alt='image' src='{}'>".format(cover)
 
         data = [meta, title, pub, year, code, note, cover]
 

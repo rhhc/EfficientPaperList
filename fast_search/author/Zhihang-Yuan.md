@@ -1,3 +1,0 @@
-|    | meta                             | title                                                                                                            | publication   |   year | code                                            | note   | cover   |
-|---:|:---------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------|-------:|:------------------------------------------------|:-------|:--------|
-|  0 | [RPTQ](../../meta/RPTQ.prototxt) | [RPTQ: Reorder-based Post-training Quantization for Large Language Models](https://arxiv.org/pdf/2304.01089.pdf) | arXiv         |   2023 | [PyTorch](https://github.com/hahnyuan/RPTQ4LLM) |        |         |
